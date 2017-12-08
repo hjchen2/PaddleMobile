@@ -1,4 +1,0 @@
-#Fri Dec 08 10:42:04 CST 2017
-base.0=/Users/baidu/Project/paddle-mobile/mobilenet-AS/app/build/intermediates/transforms/dexMerger/debug/4
-path.0=classes.dex
-renamed.0=classes.dex
