@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri Dec 08 10:42:02 CST 2017
+1.base=/Users/baidu/Project/paddle-mobile/mobilenet-AS/app/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=mobilenet.paddle
+0.set=ASSET
+0.base=/Users/baidu/Project/paddle-mobile/mobilenet-AS/app/build/intermediates/assets/debug
+1.path=synset_words.txt
